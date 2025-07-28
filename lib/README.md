@@ -48,9 +48,16 @@ A simple Flutter app that demonstrates core concepts like state management, navi
 ## 📂 Folder Structure
 
 flutter-counter-history/ 
+
 ├── lib/ 
+|
 │   └── main.dart 
+|
 ├── screenshots/ 
+|
 │   ├── counterScreen.png 
+|
 │   └── historyScreen.png 
+|
 ├── README.md     
+
