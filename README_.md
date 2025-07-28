@@ -34,16 +34,7 @@ A simple Flutter app that demonstrates core concepts like state management, navi
 
 ---
 
-## 📸 Attached Screenshots
 
-> Figure 1: The Counter Screen  
-> `count: 8` with buttons for Increment, View History, and Reload
-> screenshots/ counterScreen.png
-
-> Figure 2: The History Screen  
-> Count rank list from 0 to 7 showing corresponding count values
-> screenshots/ historyScreen.png
----
 
 ## 📂 Folder Structure
 
@@ -52,12 +43,6 @@ flutter-counter-history/
 ├── lib/ 
 |
 │   └── main.dart 
-|
-├── screenshots/ 
-|
-│   ├── counterScreen.png 
-|
-│   └── historyScreen.png 
 |
 ├── README.md     
 
