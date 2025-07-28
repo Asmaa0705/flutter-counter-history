@@ -47,10 +47,10 @@ A simple Flutter app that demonstrates core concepts like state management, navi
 
 ## 📂 Folder Structure
 
-```bash
-lib/
-└── main.dart  # App entry point and logic
-└── screenshots/
-│   └── counterScreen.png
+flutter-counter-history/
+├── lib/
+│   └── main.dart
+├── screenshots/
+│   ├── counterScreen.png
 │   └── historyScreen.png
-└── README.md     
+├── README.md    
